@@ -1,0 +1,13 @@
+
+span.category
+{
+	color: #3333CC;
+	font-style: italic;
+	font-weight: bold;
+}
+
+table.status td
+{
+	color: red;
+	font-weight: bold;
+}
